@@ -1,0 +1,42 @@
+**/.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Exclude override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Exclude .terraform.lock.hcl (optional)
+.terraform.lock.hcl
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+.gitignore [unix] (23:59 31/12/1969)                                       0,1 All
+-- INSERT --
+
