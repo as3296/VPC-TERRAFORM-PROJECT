@@ -1,0 +1,11 @@
+dev_vpccidr = "10.100.0.0/16"
+dev_vpcname = "anu-vpc"
+dev_private_anu = ["10.100.8.0/21", "10.100.16.0/21"]
+dev_public_anu = ["10.100.80.0/21", "10.100.88.0/21"]
+dev_azs = ["eu-west-2a", "eu-west-2b"]
+dev_private_anu_name = ["anu-private-subnet-1a", "anu-private-subnet-1b"]
+dev_public_anu_name = ["anu-public-subnet-1a", "anu-public-subnet-1b"]
+dev_demo_IGW = "anu-IGW"
+dev_NGW_name = "anu-NGW"
+dev_private_RT_cidr = "0.0.0.0/0"
+dev_public_RT_cidr = "0.0.0.0/0"
